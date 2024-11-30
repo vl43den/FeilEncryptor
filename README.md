@@ -48,7 +48,7 @@
 ## **Installation Steps**
 1. Clone or download this repository:
     ```bash
-    git clone https://github.com/YourUsername/FileEncryptor.git
+    git clone https://github.com/vl43den/FeilEncryptor.git
     ```
 2. Build the project using your preferred IDE (e.g., Visual Studio) or the .NET CLI:
     ```bash
