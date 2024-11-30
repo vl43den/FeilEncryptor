@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FeilEncryptor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4afd749c5c3b3d13685824e97fa673f370ee7f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FeilEncryptor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FeilEncryptor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

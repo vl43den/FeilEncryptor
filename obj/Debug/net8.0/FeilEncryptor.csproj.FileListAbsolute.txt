@@ -12,3 +12,4 @@
 /home/vlaeden/FeilEncryptor/obj/Debug/net8.0/FeilEncryptor.pdb
 /home/vlaeden/FeilEncryptor/obj/Debug/net8.0/FeilEncryptor.genruntimeconfig.cache
 /home/vlaeden/FeilEncryptor/obj/Debug/net8.0/ref/FeilEncryptor.dll
+/home/vlaeden/FeilEncryptor/obj/Debug/net8.0/FeilEncryptor.sourcelink.json
